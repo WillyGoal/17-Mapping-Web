@@ -6,12 +6,11 @@ The United States Geological Survey, or USGS, is responsible for providing scien
 
 ### Earthquakes in the Last 7 Days and Overlayed with Tectonic Plates
 
-    Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude. The data markers reflect the magnitude of the earthquake in their size and color. The USGS updates its earthquake data every 5 minutes. We will use the GeoJSON API provided by the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php).
+Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude. The data markers reflect the magnitude of the earthquake in their size and color. The USGS updates its earthquake data every 5 minutes. We will use the GeoJSON API provided by the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php).
 
-    Illustrate the relationship between tectonic plates and seismic activity. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
+Illustrate the relationship between tectonic plates and seismic activity. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
 
-    ![5-Advanced](Images/5-Advanced.png)   
+![5-Advanced](Images/5-Advanced.png)   
 
-   * Includes popups that provide additional information about the earthquake when a marker is clicked.
-
-   * A legend that will provide context for your map data.
+* Includes popups that provide additional information about the earthquake when a marker is clicked.
+* A legend that provides context for the map data.
